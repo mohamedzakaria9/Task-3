@@ -1,0 +1,46 @@
+body{
+    background-color: #000;
+}
+.first-half{
+    width: 80%;
+    margin: auto;
+}
+.first-half .first-para{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.first-mem{
+    width: 25%;
+    float: left;
+    text-align: center;
+    color: white;
+}
+.jlj{
+    border-radius: 50%;
+    outline: 5px green solid;
+    border: 5px #000 solid;
+}
+.clear-content{
+    clear: both;
+}
+.sec-half .sec-para{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.first-row{
+    float: left;
+    width: 33.333%;
+    text-align: center;
+}
+.lll{
+    border-left: 20px red solid;
+}
+.sec-row{
+float: left;
+width: 33.333%;
+text-align: center;
+margin-top: 15px;
+}
